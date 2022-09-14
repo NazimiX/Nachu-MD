@@ -21,10 +21,10 @@ global.herokuapp = process.env.HEROKU_APP_NAME
 //settings
 
 let fake = process.env.OWNER_NUMBER
-global.owner = ['918590508376',`${fake}`]
-global.wame = "https://github.com/Ajmal-Achu/Wizard-MD"
-global.pemilik = ['918590508376']
-global.premium = ['918590508376']
+global.owner = ['919947854218',`${fake}`]
+global.wame = "https://github.com/NazimiX/Nachu-MD"
+global.pemilik = ['919947854218']
+global.premium = ['919947854218']
 global.pengguna = process.env.USER_NAME
 global.footer = process.env.WATERMARK
 global.watermark = process.env.WATERMARK
@@ -33,7 +33,7 @@ global.botname = process.env.BOT_NAME
 global.caption = process.env.CAPTION
 global.ownername = process.env.OWNER_NAME
 global.tutorial = "https://youtu.be/hHQRs_eCoXM"
-global.youtube = "github.com/Ajmal-Achu"
+global.youtube = "github.com/NazimiX"
 global.packname = process.env.STICKER_PACK_NAME
 global.logo = process.env.LOGO
 global.author = process.env.STICKER_AUTHOR_NAME
