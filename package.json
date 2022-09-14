@@ -1,7 +1,7 @@
 {
-  "name": "wizard",
+  "name": "Nachu",
   "version": "1.0.0",
-  "description": "Multi device whatsapp bot by Ajmal",
+  "description": "Multi device whatsapp bot by Nazim",
   "main": "starter.js",
   "type": "commonjs",
   "scripts": {
@@ -92,10 +92,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajmal-Achu/Wizard-MD.git"
+    "url": "git+https://github.com/NazimiX/Nachu-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Ajmal-Achu/Wizard-MD/issues"
+    "url": "https://github.com/NazimiX/Nachu-MD/issues"
   },
-  "homepage": "https://github.com/Ajmal-Achu/Wizard-MD#readme"
+  "homepage": "https://github.com/NazimiX/Nachu-MD#readme"
 }
