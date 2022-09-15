@@ -152,10 +152,10 @@ return dDisplay + hDisplay + mDisplay + sDisplay;
 
 
 const reply = (teks) => {
-    Wizard.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: botname,mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, detectLinks: true,body: caption, thumbnail: thumbwiz,sourceUrl: ("github.com/Ajmal-Achu")}}})
+    Wizard.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: botname,mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, detectLinks: true,body: caption, thumbnail: thumbwiz,sourceUrl: ("github.com/NazimiX")}}})
 }
 const replay = (teks) => {
-    Wizard.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: botname,mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, body: caption, thumbnail: thumbwiz,sourceUrl: ("github.com/Ajmal-Achu")}}})
+    Wizard.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: botname,mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, body: caption, thumbnail: thumbwiz,sourceUrl: ("github.com/NazimiX")}}})
 }
 
 const drip =  {
@@ -170,7 +170,7 @@ showAdAttribution: true,
 title: botname,
 body: caption,
 mediaType: "VIDEO",
-mediaUrl: `https://githb.com/Ajmal-Achu/Wizard-MD`,
+mediaUrl: `https://githb.com/NazimiX/Nachu-MD`,
 description: ownername,
 previewType: "PHOTO",
 thumbnail: thumbwiz,
@@ -234,7 +234,7 @@ let picak = picaks[Math.floor(Math.random() * picaks.length)]
   if (!('antilink' in chats)) chats.antilink = false
   if (!('antilinkyt' in chats)) chats.antilinkyt = false
   if (!('autoblock' in chats)) chats.autoblock = false
-  if (!('isWelcome' in chats)) chats.isWelcome = true
+  if (!('isWelcome' in chats)) chats.isWelcome = true 
   if (!('antilinkall' in chats)) chats.antilinkall = false
   if (!('antiytchannel' in chats)) chats.antiytchannel = false
   if (!('antitiktok' in chats)) chats.antitiktok = false
@@ -2189,7 +2189,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
  case 'sc': case 'script': case 'donate': case 'donasi': case 'donate': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
 
   teks = `
-  *${global.botname}*\n\n*TUTORIAL:* github.com/Ajmal-Achu\n*GITHUB:* https://github.com/Ajmal-Achu/Wizard-MD\n\n*WEBSITE:* https://ajmalser.vercel.app\n\n You Can Support Us By Following Us On Social Media😊`
+  *${global.botname}*\n\n*TUTORIAL:* github.com/NazimiX\n*GITHUB:* https://github.com/NazimiX/Nachu-MD\n\n*WEBSITE:* https://ajmalser.vercel.app\n\n You Can Support Us By Following Us On Social Media😊`
   let buttons = [
  {buttonId: `menu`, buttonText: {displayText: 'MENU <3'}, type: 1}
   ]
@@ -2206,8 +2206,8 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
   showAdAttribution: true,
   thumbnail: thumbwiz,
   mediaType:1,
-  mediaUrl: 'github.com/Ajmal-Achu',
-  sourceUrl: "github.com/Ajmal-Achu"
+  mediaUrl: 'github.com/NazimiX',
+  sourceUrl: "github.com/NazimiX"
   }}
   }
   Wizard.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -2233,8 +2233,8 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
   showAdAttribution: true,
   thumbnail: thumbwiz,
   mediaType:1,
-  mediaUrl: 'github.com/Ajmal-Achu',
-  sourceUrl: "github.com/Ajmal-Achu"
+  mediaUrl: 'github.com/NazimiX',
+  sourceUrl: "github.com/NazimiX"
   }}
   }
   Wizard.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -3382,7 +3382,7 @@ break
   let btn = [{
  urlButton: {
   displayText: 'SCRIPT',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/NazimiX/Nachu-MD'
  }
   }]
  fatihgans = thumbwiz
@@ -3402,7 +3402,7 @@ for (let yoi of anu) {
     let btn = [{
  urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/NazimiX/Nachu-MD'
  }
   }, {
  quickReplyButton: {
@@ -4138,7 +4138,7 @@ url: `${drips2.videos[0].url}`
 }, {
 urlButton: {
 displayText: `GITHUB`, 
-url: `https://github.com/Ajmal-Achu/Wizard-MD`
+url: `https://github.com/NazimiX/Nachu-MD`
 }
 }, {
 quickReplyButton: {
@@ -5006,7 +5006,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/NazimiX/Nachu-MD'
 }
 }]
 let txt = `「 *${global.botname} BROADCAST* 」\n\n${text}`
@@ -5025,7 +5025,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/NazimiX/Nachu-MD'
 }
 }]
 let txt = `「 *${global.botname} BROADCAST* 」\n\n${text}`
@@ -5058,7 +5058,7 @@ await sleep(1500)
 let butoon = [{
 urlButton: {
 displayText: `GITHUB`,
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/NazimiX/Nachu-MD'
 }
 },
 {
@@ -6613,7 +6613,7 @@ url: youtube
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/NazimiX/Nachu-MD'
 }
 }, {
 quickReplyButton: {
@@ -7294,7 +7294,7 @@ anu = `
 
  𝚜𝚎𝚕𝚕𝚒𝚔𝚊𝚗
  𝚜𝚎𝚕𝚕𝚋𝚎𝚜𝚒
- 𝚜𝚎𝚕𝚕𝚎𝚖𝚊𝚜
+ ??𝚎𝚕𝚕𝚎𝚖𝚊𝚜
  𝚜𝚎𝚕𝚕𝚍𝚒𝚊𝚖𝚘𝚗𝚍
 
  *_${global.caption}_*
@@ -7308,7 +7308,7 @@ anu = `
     }, {
         urlButton: {
             displayText: 'GITHUB',
-            url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+            url: 'https://github.com/NazimiX/Nachu-MD'
         }
     }, {
         quickReplyButton: {
@@ -7343,7 +7343,7 @@ anu = `
     }, {
     urlButton: {
     displayText: 'GITHUB',
-    url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+    url: 'https://github.com/NazimiX/Nachu-MD'
     }
     }, {
     quickReplyButton: {
@@ -7381,7 +7381,7 @@ anu = `
     }, {
     urlButton: {
     displayText: 'GITHUB',
-    url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+    url: 'https://github.com/NazimiX/Nachu-MD'
     }
     }, {
     quickReplyButton: {
@@ -7419,7 +7419,7 @@ anu = `
     }, {
     urlButton: {
     displayText: 'GITHUB',
-    url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+    url: 'https://github.com/NazimiX/Nachu-MD'
     }
     }, {
     quickReplyButton: {
@@ -7472,7 +7472,7 @@ anu = `
         }
         
     var buffer = await getBuffer(ppuser)
-    const buttonsDefault = [{ urlButton: { displayText: `SUBSCRIBE`, url : `https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA` } }, { urlButton: { displayText: `GITHUB`, url : `https://github.com/Ajmal-Achu/Wizard-MD` } },
+    const buttonsDefault = [{ urlButton: { displayText: `SUBSCRIBE`, url : `https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA` } }, { urlButton: { displayText: `GITHUB`, url : `https://github.com/NazimiX/Nachu-MD` } },
     {					
       quickReplyButton: {
       displayText: 'SPEED',
@@ -7655,7 +7655,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/NazimiX/Nachu-MD'
 }
 }
 ]
@@ -7706,7 +7706,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/NazimiX/Nachu-MD'
 }
 }
 ]
@@ -7775,7 +7775,7 @@ case 'photooxymenu': {
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/NazimiX/Nachu-MD'
   }
   }
   ]
@@ -7862,7 +7862,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/NazimiX/Nachu-MD'
 }
 }
 ]
@@ -7963,7 +7963,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/NazimiX/Nachu-MD'
 }
 }
 ]
@@ -8032,7 +8032,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/NazimiX/Nachu-MD'
 }
 }
 ]
@@ -8116,7 +8116,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/NazimiX/Nachu-MD'
 }
 }
 ]
@@ -8203,7 +8203,7 @@ case 'animemenu':{
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/NazimiX/Nachu-MD'
   }
   }
   ]
@@ -8268,7 +8268,7 @@ case 'convertmenu': {
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/NazimiX/Nachu-MD'
   }
   }
   ]
@@ -8328,7 +8328,7 @@ case 'toolmenu': {
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/NazimiX/Nachu-MD'
   }
   }
   ]
@@ -8400,7 +8400,7 @@ case 'searchmenu':{
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/NazimiX/Nachu-MD'
   }
   }
   ]
@@ -8444,7 +8444,7 @@ hydratedButtons: [{
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/NazimiX/Nachu-MD'
 }
 }
 ]
