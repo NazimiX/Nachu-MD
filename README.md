@@ -7,10 +7,10 @@
 <a href="#"><img title="Nachu MULTI DEVICE" src="https://img.shields.io/badge/NACHU MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NazimiX"><img title="Author" src="https://img.shields.io/badge/Author-AJMAL-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/NazimiX"><img title="Author" src="https://img.shields.io/badge/Author-Nazim-red.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/NazimiX/followers"><img title="Followers" src="https://img.shields.io/github/followers/NazimiX?color=blue&style=flat-square"></a>
-<a href="https://github.com/NazimiX"><img title="Stars" src="https://img.shields.io/github/stars/Ajmal-Achu/Wizard-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/NazimiX"><img title="Stars" src="https://img.shields.io/github/stars/NazimiX/Nachu-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/NazimiX/Nachu-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NazimiX/Nachu-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/NazimiX/Nachu-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NazimiX/Nachu-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/NazimiX/Nachu-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NazimiX/Nachu-MD?label=Watchers&color=blue&style=flat-square"></a>
@@ -27,7 +27,7 @@
 
 ### DEPLOY THROUGH HEROKU
 
-<a href="https://nachu-md-deployer.vercel.app/"><img align="center" src="https://telegra.ph/file/3699dfde66d9b4958375f.jpg" alt="Fork and deploy" height="50" width="200" /></a>
+<a href="https://nachu-md-deployer.vercel.app/"><img align="center" src="https://Ajmal-Achu/file/3699dfde66d9b4958375f.jpg" alt="Fork and deploy" height="50" width="200" /></a>
 </div>
 
 ---
