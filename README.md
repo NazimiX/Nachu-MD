@@ -4,19 +4,19 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="Nachu MULTI DEVICE" src="https://img.shields.io/badge/WIZARD MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Nachu MULTI DEVICE" src="https://img.shields.io/badge/NACHU MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/NazimiX"><img title="Author" src="https://img.shields.io/badge/Author-AJMAL-red.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://github.com/NazimiX/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajmal-Achu?color=blue&style=flat-square"></a>
+<a href="https://github.com/NazimiX/followers"><img title="Followers" src="https://img.shields.io/github/followers/NazimiX?color=blue&style=flat-square"></a>
 <a href="https://github.com/NazimiX"><img title="Stars" src="https://img.shields.io/github/stars/Ajmal-Achu/Wizard-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/NazimiX/Nachu-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ajmal-Achu/Wizard-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/NazimiX/Nachu-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ajmal-Achu/Wizard-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/NazimiX/Nachu-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ajmal-Achu/Wizard-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/NazimiX/Nachu-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NazimiX/Nachu-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/NazimiX/Nachu-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NazimiX/Nachu-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/NazimiX/Nachu-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NazimiX/Nachu-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/NazimiX/Nachu-MD"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/NazimiX/Nachu-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Ajmal-Achu/Wizard-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAjmal-Achu%2FWizard-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/NazimiX/Nachu-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/NazimiX/Nachu-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNazimiX%2FNachu-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/NazimiX/Nachu-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </P>
 </div>
@@ -27,7 +27,7 @@
 
 ### DEPLOY THROUGH HEROKU
 
-<a href="https://wizard-md-deployer.vercel.app/"><img align="center" src="https://telegra.ph/file/c7a44f94bc788d4d6478f.jpg" alt="Fork and deploy" height="50" width="200" /></a>
+<a href="https://nachu-md-deployer.vercel.app/"><img align="center" src="https://telegra.ph/file/3699dfde66d9b4958375f.jpg" alt="Fork and deploy" height="50" width="200" /></a>
 </div>
 
 ---
@@ -64,7 +64,7 @@ And Many More Features Are Available 😊
 # Thanks to
 <a href="https://github.com/NazimiX"><img src="https://github.com/Ajmal-Achu.png?size=100" width="100" height="100"></a> | [<img src="https://telegra.ph/file/0d160eade24b0ad32ee12.jpg" width="100" height="100">](https://github.com/Ajmal-Achu/Wizard-MD) 
 ---|---
-[AJMAL](https://github.com/NazimiX)  | [ABHI](https://github.com/Ajmal-Achu/Wizard-MD)
+[NAZIM](https://github.com/NazimiX)  | [Nazim](https://github.com/NazimiX/Nachu-MD)
 DEVELOPER| FOR HELP |
 <a href="https://github.com/V1P3R-X"><img src="https://github.com/V1P3R-X.png?size=100" width="100" height="100"></a> | [![WIZARD MD](https://github.com/Neeraj-X0.png?size=100)](https://github.com/Neeraj-X0) 
 [V1P3R-X](https://github.com/V1P3R-X)  | [Neeraj-X0](https://github.com/Neeraj-X0)
