@@ -27,7 +27,7 @@
 
 ### DEPLOY THROUGH HEROKU
 
-<a href="https://nachu-md-deployer.vercel.app/"><img align="center" src="https://Ajmal-Achu/file/3699dfde66d9b4958375f.jpg" alt="Fork and deploy" height="50" width="200" /></a>
+<a href="https://wizard-md-deployer.vercel.app/"><img align="center" src="https://Ajmal-Achu/file/3699dfde66d9b4958375f.jpg" alt="Fork and deploy" height="50" width="200" /></a>
 </div>
 
 ---
